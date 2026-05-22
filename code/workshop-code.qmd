@@ -1,8 +1,8 @@
 ---
 title: "Workshop 8 TEMPLATE"
-subtitle: "insert your section time here"
-author: "insert your name here"
-date: "insert your name here"
+subtitle: "9 am Friday"
+author: "Jared Umphress"
+date: "May 22, 2025"
 format:
   pdf:
     toc: true # use this to display a table of contents
